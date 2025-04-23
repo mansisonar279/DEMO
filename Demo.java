@@ -5,9 +5,14 @@ class Demo
         int b=20;
         int sum=a+b;
         int sub=a-b;
+        int div = a / b; 
+
 
         System.out.println("Sum is : "+sum);
         System.out.println("Sub is : "+sub);
+        System.out.println("Multiplication is : " + mul);
+        System.out.println("Division is : " + div);
+
 
 
 
