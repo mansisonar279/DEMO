@@ -5,6 +5,7 @@ class Demo
         int b=20;
         int sum=a+b;
         int sub=a-b;
+        int mul=a*b;
         int div = a / b; 
 
 
